@@ -1,0 +1,90 @@
+.m-atas{
+	margin-top: 50px;
+}
+
+
+.m-sedang-atas{
+	margin-top: 15px;
+}
+
+.m-sedang-jarak-tombol{
+    margin-top: 10px;
+}
+
+.m-bawah{
+	margin-bottom: 50px;
+}
+
+.m-kanan{
+	margin-right: 50px;
+}
+
+.m-kiri{
+	margin-left: 50px;
+}
+.m-middle{
+	margin-top: 80px;
+}
+
+.dropdown-menu{
+    background: white; 
+    font-size: 18px;
+    color: white;
+}
+#d_down{
+    background-color: #1a1a1a
+}
+.dropdown-item{
+    margin-top: 10px;
+    background: white;
+}
+.main-bg{
+	background: url('../images/steak.JPG') no-repeat center center;
+}
+.form-style{
+	
+	color: white;
+	background:#1a1a1a;
+	opacity: 0.8; 
+	filter:alpha(opacity=80); 
+	margin-top: 150px;"
+}
+.alg-center{
+	text-align: center;
+}
+
+.size-md{
+	font-size: 200px;
+}
+.boxx{
+    font-size: 20px;
+    width:100%;
+    border: 1px solid
+}
+.m{
+	margin: 20px;
+}
+
+section.booking {
+        background-color: #63C85D;
+        text-align: center;
+        margin-bottom: 50px;
+  }
+.bodyy,.headd {
+    display: block;
+}
+
+.headd {
+    font-size: 28px;
+    font-weight: 900;
+    letter-spacing: 0.040em;
+    color: #1a1a1a;
+    text-align: center;
+    margin: 40px 0 0 0;
+}
+td{
+    margin-right: 10px;
+}
+.color-test{
+    color : black;
+}
